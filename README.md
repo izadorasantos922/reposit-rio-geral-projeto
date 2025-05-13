@@ -1,4 +1,4 @@
-# 📚 Repositório Geral do Projeto
+# 📚 Repositório Compass
 
 Este repositório tem como finalidade centralizar **os documentos e arquivos importantes** produzidos ao longo do programa de bolsas da Compass. Aqui estão armazenados materiais das sprints anteriores.
 
