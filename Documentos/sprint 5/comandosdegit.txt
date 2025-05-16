@@ -1,0 +1,6 @@
+Desfazer todas as alterações locais (inclusive arquivos não versionados)
+Se você quer resetar completamente o repositório local ao estado do último commit ou do repositório remoto:
+git reset --hard HEAD      # Volta ao último commit local, descartando tudo
+git clean -fd              # Remove arquivos e diretórios não versionados
+
+
